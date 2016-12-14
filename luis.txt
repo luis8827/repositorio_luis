@@ -1,0 +1,4 @@
+1. ver lo del botos cerrar unidad en cada pestaña de notas -
+2. ver los reportes de asistencia de docentes de yanina
+3. aun no me has dado el formulario para la asistencia de administrativos
+4. aun no tengo reportes de administrativos
